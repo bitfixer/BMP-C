@@ -38,7 +38,7 @@
 BMP_BEGIN_DECLS
 
 #ifndef bool
-typedef int bool;
+//typedef int bool;
 #define FALSE (0)
 #define TRUE !FALSE
 #endif
